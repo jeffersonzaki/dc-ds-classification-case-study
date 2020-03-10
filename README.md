@@ -72,9 +72,11 @@ explore whether feature has sufficient signal
 
 There are many reasons to churn -> **feature engineering is king**
 
-[churn funnel]
+![churn funnel](./img/funnel.png)
 
-[Actions]
+![solutions](./img/solutions.png)
+
+![time](./img/time.png)
 
 ### Data
 ```
